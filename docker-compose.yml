@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  spotify_adblock:
+    image: marcpartensky/spotify-adblock
+    build: .
